@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    color: steelblue;
+}
+
+.input-form {
+    margin: 5px;
+    padding: 7px;
+}
+
+.btn {
+    color: white;
+    background-color: steelblue;
+    border: 1px;
+    border-radius: 5px;
+    width: 100px;
+    height: 25px;
+    margin-top: 18px;
+}
